@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter Unit Testing snapshot should matched 1`] = `
+<img class="w-80" src="" alt="Vue logo">
+<h2 data-test="title" class="text-3xl font-bold text-white">Counter</h2>
+<p data-test="counter" class="text-xl text-white">100 <sup>3</sup> = 1000000</p>
+<div class="flex gap-2 mt-2"><button class="rounded bg-slate-300 hover:bg-slate-400 p-2"> Decrease </button><button class="rounded bg-slate-300 hover:bg-slate-400 p-2"> Increase </button></div>
+`;
